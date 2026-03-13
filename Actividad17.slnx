@@ -4,4 +4,7 @@
   <Project Path="Ejercicio3/Ejercicio3.csproj" />
   <Project Path="Ejercicio4/Ejercicio4.csproj" />
   <Project Path="Ejercicio5/Ejercicio5.csproj" />
+  <Project Path="Ejercicio6/Ejercicio6.csproj" />
+  <Project Path="Ejercicio7/Ejercicio7.csproj" Id="1253b7de-51f6-4f88-8a13-c69137b6d224" />
+  <Project Path="Ejercicio8/Ejercicio8.csproj" Id="278e1051-1e0d-4206-b98c-a88b70195da6" />
 </Solution>
