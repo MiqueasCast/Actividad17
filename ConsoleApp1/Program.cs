@@ -5,7 +5,7 @@
 
 Console.Write("Ingrese la cantidad de productos: ");
 int cantidadProductos = int.Parse(Console.ReadLine());
-
+    
 double total = 0;
 for (int i = 1; i <= cantidadProductos; i++)
 {
