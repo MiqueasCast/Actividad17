@@ -15,14 +15,13 @@
 
     double promedio = (cal1 + cal2 + cal3) / 3;
 
-    Console.WriteLine("===== REPORTE DEL ESTUDIANTE =====");
+    Console.WriteLine("REPORTE DEL ESTUDIANTE");
     Console.WriteLine($"Nombre: {nombre}");
     Console.WriteLine($"Curso: {curso}");
     Console.WriteLine($"Calificación 1: {cal1}");
     Console.WriteLine($"Calificación 2: {cal2}");
     Console.WriteLine($"Calificación 3: {cal3}");
     Console.WriteLine($"Promedio: {promedio}");
-    Console.WriteLine("==================================");
 }
 
 ReporteEstudiante();
