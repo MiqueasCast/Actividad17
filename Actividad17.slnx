@@ -1,5 +1,14 @@
 <Solution>
+  <Project Path="ConsoleApp1/Ejercicio18.csproj" Id="654a27dd-6310-4b15-a563-d20a25994596" />
   <Project Path="Ejercicio1/Ejercicio1.csproj" />
+  <Project Path="Ejercicio10/Ejercicio10.csproj" Id="ee133095-4f3b-4d28-939b-322e3a711674" />
+  <Project Path="Ejercicio11/Ejercicio11.csproj" Id="8dbcf823-7cab-4ffd-a35e-35b154327409" />
+  <Project Path="Ejercicio12/Ejercicio12.csproj" Id="62fc4c2a-dfdd-4fda-b350-56bcaa35982a" />
+  <Project Path="Ejercicio13/Ejercicio13.csproj" Id="3b531f86-3b7d-41f3-b6da-c774da701025" />
+  <Project Path="Ejercicio14/Ejercicio14.csproj" Id="baeaa08d-9cc2-4fe9-81b3-6490b8aeab21" />
+  <Project Path="Ejercicio15/Ejercicio15.csproj" Id="a993773e-d31c-4e0e-bfef-b482040a7ccb" />
+  <Project Path="Ejercicio16/Ejercicio16.csproj" Id="d3815bf3-6bb9-48a7-a64b-62346e42e0b1" />
+  <Project Path="Ejercicio17/Ejercicio17.csproj" Id="35a1c95a-cd7a-4905-8435-18c61230b15a" />
   <Project Path="Ejercicio2/Ejercicio2.csproj" />
   <Project Path="Ejercicio3/Ejercicio3.csproj" />
   <Project Path="Ejercicio4/Ejercicio4.csproj" />
@@ -7,4 +16,5 @@
   <Project Path="Ejercicio6/Ejercicio6.csproj" />
   <Project Path="Ejercicio7/Ejercicio7.csproj" Id="1253b7de-51f6-4f88-8a13-c69137b6d224" />
   <Project Path="Ejercicio8/Ejercicio8.csproj" Id="278e1051-1e0d-4206-b98c-a88b70195da6" />
+  <Project Path="Ejercicio9/Ejercicio9.csproj" Id="89a33569-f8a3-42b1-bbd7-4c2615d9557c" />
 </Solution>
